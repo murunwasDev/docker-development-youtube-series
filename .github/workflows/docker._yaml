@@ -1,3 +1,7 @@
+###########################################################
+# Rename the file extension to ".yaml" (remove "_") to enable
+###########################################################
+
 name: Docker Series Builds
 
 on: [push]
